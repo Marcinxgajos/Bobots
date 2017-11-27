@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/bobotsTerr.unity
+  isLoaded: 1
+  isActive: 1
